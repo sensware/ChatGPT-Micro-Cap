@@ -79,5 +79,5 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    print("generating graph...")
+    print("generating graph . . .")
     main()
